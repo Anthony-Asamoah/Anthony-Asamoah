@@ -4,6 +4,8 @@
 
 ### Backend Engineer | Health-tech Specialist | Architecture Enthusiast
 
+**Researcher @ GI-KACE**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-or-tony/)
 
 </div>
@@ -12,27 +14,42 @@
 
 ## 🏗️ What I Do
 
-Building **scalable, resilient backend systems** for web based applications. I focus on clean architecture, robust API design, and systems that scale.
-```typescript
-const expertise = {
-  architecture: ["Microservices", "Event-Driven", "RESTful APIs", "System Design"],
-  languages: ["Python", "TypeScript"],
-  focus: ["Backend Development", "Distributed Systems", "Health-tech"],
-};
+Building **scalable, resilient backend systems** for health-tech applications. I focus on clean architecture, robust API design, and systems that scale—whether monolithic or distributed.
+
+I bridge the gap between **technical implementation and business objectives**, translating product requirements into robust, maintainable solutions.
+```python
+expertise = {
+    "architecture": ["Monolithic", "Microservices", "RESTful APIs", "GraphQL", "System Design"],
+    "languages": ["Python", "TypeScript"],
+    "focus": ["Backend Development", "Quality Assurance", "Product Engineering", "Health-tech Research"],
+    "philosophy": "Right tool for the right job",
+    "workflow": "Claude & Claude Code-assisted development"
+}
 ```
+
+## 🚀 Product Highlights
+
+**MHC Pro & MHC Customer Apps** – Part of the engineering team that successfully launched both applications on Apple App Store and Google Play Store, delivering healthcare solutions to end users.
 
 ## 🛠️ Core Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+
+**GraphQL:** Ariadne • Graphene  
+**Testing:** Automated Testing • Smoke Testing • QA Processes  
+**AI-Assisted Development:** Claude • Claude Code
 
 ---
 
 <div align="center">
 
-*Most repositories are private. Open to collaboration on interesting projects.*
+*Most repositories are organization-based or across different Git services. Open to collaboration on interesting projects.*
 
 </div>
