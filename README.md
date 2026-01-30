@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Sean
+# 👋 Hey, I'm Anthony
 
 ### Backend Engineer | Health-tech Specialist | Architecture Enthusiast
 
