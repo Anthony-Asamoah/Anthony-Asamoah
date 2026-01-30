@@ -50,6 +50,6 @@ expertise = {
 
 <div align="center">
 
-*Most repositories are organization-based or across different Git services. Open to collaboration on interesting projects.*
+*Most repositories are private, collaborated, organization-based and across different Git services. Open to collaboration on interesting projects.*
 
 </div>
