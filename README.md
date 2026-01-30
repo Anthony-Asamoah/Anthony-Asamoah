@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Anthony
 
-### Backend Engineer | Health-tech Specialist | Architecture Enthusiast
+### Software Engineer | Backend Specialist | Architecture Enthusiast | Health-Tech Inclined
 
 **Researcher @ GI-KACE**
 
@@ -14,7 +14,7 @@
 
 ## 🏗️ What I Do
 
-Building **scalable, resilient backend systems** for health-tech applications. I focus on clean architecture, robust API design, and systems that scale—whether monolithic or distributed.
+Building **scalable, resilient backend systems** for web based applications. I focus on clean architecture, robust API design, and systems that scale—whether monolithic or distributed.
 
 I bridge the gap between **technical implementation and business objectives**, translating product requirements into robust, maintainable solutions.
 ```python
