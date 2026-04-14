@@ -21,7 +21,7 @@ I bridge the gap between **technical implementation and business objectives**, t
 expertise = {
     "architecture": ["Monolithic", "Microservices", "RESTful APIs", "GraphQL", "System Design"],
     "languages": ["Python", "TypeScript"],
-    "focus": ["Backend Development", "Quality Assurance", "Product Engineering", "Health-tech Research"],
+    "focus": ["Backend Development", "Quality Assurance", "Product Engineering"],
     "philosophy": "Right tool for the right job",
     "workflow": "Claude & Claude Code-assisted development"
 }
