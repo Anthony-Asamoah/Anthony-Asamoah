@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Anthony
 
-### Software Engineer | Backend Specialist | Architecture Enthusiast | Health-Tech Inclined
+### Software Engineer | Backend Specialist | Systems Architect | Project Lead
 
 **Researcher & Developer @ GI-KACE**
 
@@ -14,14 +14,19 @@
 
 ## 🏗️ What I Do
 
-Building **scalable, resilient backend systems** for web based applications. I focus on clean architecture, robust API design, and systems that scale—whether monolithic or distributed.
+I build and lead the delivery of **scalable software systems**, specializing in backend engineering, system architecture, product development, and project management. I translate **business requirements into reliable technical solutions** and drive projects from concept through delivery.
 
-I bridge the gap between **technical implementation and business objectives**, translating product requirements into robust, maintainable solutions.
 ```python
 expertise = {
     "architecture": ["Monolithic", "Microservices", "RESTful APIs", "GraphQL", "System Design"],
     "languages": ["Python", "TypeScript"],
-    "focus": ["Backend Development", "Quality Assurance", "Product Engineering", "Project Management"],
+    "focus": [
+        "Backend Engineering",
+        "System Architecture",
+        "Product Engineering",
+        "Project Management",
+        "Quality Assurance"
+    ],
     "philosophy": "Right tool for the right job",
     "workflow": "Claude & Claude Code-assisted development"
 }
