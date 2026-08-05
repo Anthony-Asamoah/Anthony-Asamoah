@@ -29,9 +29,9 @@ expertise = {
 
 ## 🚀 Product Highlights
 
-**MHC Pro & MHC Customer Apps** – Part of the engineering team that successfully launched both applications on Apple App Store and Google Play Store, delivering healthcare solutions to end users.
-
 **Ghana MSME Digital Platform & Marketplace** — Led the V2 backend transformation of the Ghana Enterprises Agency’s official MSME Gateway, evolving it into a scalable marketplace that connects businesses to the information, tools, and opportunities they need to participate and grow.
+
+**MHC Pro & MHC Customer Apps** – Part of the engineering team that successfully launched both applications on Apple App Store and Google Play Store, delivering healthcare solutions to end users.
 
 ## 🛠️ Core Stack
 
@@ -39,10 +39,10 @@ expertise = {
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 **GraphQL:** Ariadne • Graphene  
 **Testing:** Automated Testing • Smoke Testing • QA Processes  
@@ -52,6 +52,6 @@ expertise = {
 
 <div align="center">
 
-*Most repositories are private, collaborated, organization-based and across different Git services. Open to collaboration on interesting projects.*
+*Most repositories are private, collaborated, organization-based and across different Git services. Open to collaboration on interesting and impactful projects.*
 
 </div>
