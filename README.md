@@ -31,6 +31,8 @@ expertise = {
 
 **MHC Pro & MHC Customer Apps** – Part of the engineering team that successfully launched both applications on Apple App Store and Google Play Store, delivering healthcare solutions to end users.
 
+**Ghana MSME Digital Platform & Marketplace** — Led the V2 backend transformation of MSME Gateway, driving the shift to a scalable multivendor marketplace architecture that powers MSME onboarding, commerce, payments, and marketplace operations.
+
 ## 🛠️ Core Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
